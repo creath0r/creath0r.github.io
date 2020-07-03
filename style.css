@@ -1,5 +1,15 @@
-h2
+h1
 {
-color: seagreen;
+    color: dimgray;
     font-weight: bold;
 }
+h2
+{
+color: darkslategrey;
+    font-weight: bold;
+}
+.paragrapheindex
+{
+    color: lightslategrey;
+}
+ 
