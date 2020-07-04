@@ -1,0 +1,47 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8"/>
+    <link href="style.css" rel="stylesheet"/>
+    <title> CV en ligne Accueil </title>
+</head>
+
+<body>
+<h1>Stephane Sissoko</h1>
+<p>
+    <img src="./images/sketch.tree.png" alt="Flat Design Tree"/><br/>
+    Recherche une <em>Altern²ance</em> en <strong>Web Design</strong>, pour la rentrée septembre</p>
+
+<h2>Contact</h2>
+<p class="paragrapheindex">
+    Me contacter ou vistier mes reseaux c'est par <a href="./contact.html">ici !</a>
+</p>
+
+<h2>Logiciel</h2>
+<p class="paragrapheindex">
+    Actuellement j'utilise ces <a href="./logiciel.html">Technologies</a> et continue d'en apprendre de nouvelles !
+    Knowledge Never Ends !
+</p>
+
+<h2>Experiences</h2>
+<p class="paragrapheindex">
+    Durant mon parcours j'ai pu expérimenter diverses missions dans des domaines tout à fait différents, ont pourrait
+    dire que je suis polyvalent !<br>
+    Je vous laisse juger mes <a href="./experiences.html">Experiences</a>
+</p>
+
+<h2>Formations</h2>
+<p class="paragrapheindex">
+    Aujourd'hui les formations sont incontournables et sont des veritables sources d'informations et
+    d'apprentissage,<br>
+    ont peut toujours se former par soi même, mais prendre des raccourcis peut nous faire gagner énormément de temps
+    !<br>
+    Consultez <a href="./formations.html">Ici</a> les miennes !
+</p>
+
+<h2>Hobbies</h2>
+<p class="paragrapheindex">
+    Après l'effort le réconfort, mes <a href="./hobbies.html">activitées</a> détente !
+</p>
+</body>
+
+</html>
